@@ -1,0 +1,7 @@
+name: douyin-account-diagnosis
+display_name: 抖音账号诊断
+version: 1.0.0
+description: 读取抖音账号公开资料和近期作品样本，生成可复核诊断与选题建议。
+category: selfmedia
+runtime: easy-webbridge
+self_test: node scripts/self-test.mjs
